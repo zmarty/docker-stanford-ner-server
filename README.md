@@ -4,7 +4,7 @@ Docker image that contains the **[Stanford Named Entity Recognizer (NER) Server]
 
 **What is Stanford Named Entity Recognizer (NER)**
 
-From [official website](http://nlp.stanford.edu/software/CRF-NER.shtml): Stanford NER is a Java implementation of a Named Entity Recognizer. Named Entity Recognition (NER) labels sequences of words in a text which are the names of things, such as person and company names, or gene and protein names. It comes with well-engineered feature extractors for Named Entity Recognition, and many options for defining feature extractors.
+From [official website](http://nlp.stanford.edu/software/CRF-NER.shtml): *Stanford NER is a Java implementation of a Named Entity Recognizer. Named Entity Recognition (NER) labels sequences of words in a text which are the names of things, such as person and company names, or gene and protein names. It comes with well-engineered feature extractors for Named Entity Recognition, and many options for defining feature extractors.*
 
 **What is Stanford NER Server?**
 
